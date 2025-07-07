@@ -15,6 +15,3 @@ used to get the information about movies web-server.
 3. The Title of the movie.
 4. The First name and the Last name of the director.
 
-The Reference: As a part of learning Go, I have built this project and used @AkhilSharma90 tutorial for guidance. This is the tutorial that I have used for reference: https://www.youtube.com/watch?v=TkbhQQS3m_o&list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9&index=2&t=2330s
-
-**Thanks for your time**
