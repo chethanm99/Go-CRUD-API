@@ -4,6 +4,14 @@ A simple, lightweight RESTful API for performing CRUD (Create, Read, Update, Del
 
 The application runs a local web server and manages a list of movies in-memory.
 
+## Features
+
+*   **Full CRUD Operations:** Implements all four essential CRUD operations (Create, Read, Update, Delete) for managing movie records.
+*   **RESTful API Design:** Follows REST principles for a clean and predictable API structure.
+*   **JSON Data Handling:** Uses JSON as the data format for both request bodies and API responses, ensuring wide compatibility.
+*   **Efficient Routing:** Leverages the popular `gorilla/mux` router to handle HTTP requests and URL parameters efficiently.
+*   **Lightweight & Standalone:** Runs as a single Go application with no external database dependencies, using an in-memory slice for data storage.
+
 ## Getting Started
 
 Follow these instructions to get the project running on your local machine.
